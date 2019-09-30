@@ -9,3 +9,5 @@
 2) В скопировать id города в андресной строке - https://i.imgur.com/CqbJkAt.jpg
 3) Идем в index.php и вставляем id нового города - https://i.imgur.com/qXYP4Vu.jpg
 4) Обновляем страничку с виджетом.
+
+Демо - http://mytest.flatroom.org/
