@@ -29,14 +29,6 @@ echo
 "<div><img src='/img/thermometer.png'/>".$davlenie."</div>";
 ?>
 </div>
-<!--
-<div id="openweathermap-widget-15"></div>
-<script>window.myWidgetParam ? window.myWidgetParam : window.myWidgetParam = [];  window.myWidgetParam.push({id: 15,cityid: '524901',appid: 'bf842d6e5939669ace89ce1ce80221de',units: 'metric',containerid: 'openweathermap-widget-15',  });
-  (function() {var script = document.createElement('script');script.async = true;script.charset = "utf-8";
-script.src = "//openweathermap.org/themes/openweathermap/assets/vendor/owm/js/weather-widget-generator.js";
-var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(script, s);
-  })();</script>
--->
 <div class="time">Дата: <?php echo $today; ?></div>
 </body>
 </html>
