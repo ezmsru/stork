@@ -10,4 +10,6 @@
 3) Идем в index.php и вставляем id нового города - https://i.imgur.com/qXYP4Vu.jpg
 4) Обновляем страничку с виджетом.
 
+
 Демо - http://mytest.flatroom.org/
+
