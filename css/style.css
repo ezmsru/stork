@@ -1,0 +1,74 @@
+p {
+
+	color: #fff;
+
+    font-family: "ApercuPro-Black";
+
+    font-weight: normal;
+
+    font-size: 55px;
+
+}
+
+img {
+
+    padding: 0px 10px 0px 0px;
+
+}
+
+.img_weather {
+
+    width: 40px;
+    padding: 0px;
+
+}
+
+
+
+.main_back {
+
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,143,114,1) 47%, rgba(0,212,255,1) 100%);
+
+}
+
+.fonts {
+
+	text-align: left;
+
+	color: #fff;
+
+    font-family: "ApercuPro-Black";
+
+    font-weight: normal;
+
+    font-size: 55px;
+
+}
+.centr {
+    display: grid;
+    justify-content: center;
+    padding: 30px;
+}
+
+
+.time {
+
+    position: absolute;
+
+    bottom: 0em;
+
+    right: 0em;
+
+    text-align: right;
+
+    font-size: 30px;
+
+}
+
+.line {
+
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: #f2f2f28f;
+
+}
